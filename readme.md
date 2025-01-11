@@ -1,4 +1,4 @@
-# Prediksi Resiko Stroke 
+# Prediksi Resiko Stroke  
 ## TK 5 - Belgis Anggita
 1. Clone repository ini
     ```bash
